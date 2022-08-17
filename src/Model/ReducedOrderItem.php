@@ -24,7 +24,8 @@ class ReducedOrderItem extends AbstractModel
     }
 
     /**
-     * @var string The id for the order item (1 order can have multiple order items).
+     * @var string The id for the order item. One order can have multiple order items, but the list can only take one
+     * item.
      */
     public $orderItemId;
 
