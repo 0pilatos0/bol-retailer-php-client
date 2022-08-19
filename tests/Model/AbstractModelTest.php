@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Picqer\BolRetailerV5\Tests\Model;
+namespace Picqer\BolRetailerV7\Tests\Model;
 
 use PHPUnit\Framework\TestCase;
-use Picqer\BolRetailerV5\Model\AbstractModel;
+use Picqer\BolRetailerV7\Model\AbstractModel;
 
 class AbstractModelTest extends TestCase
 {

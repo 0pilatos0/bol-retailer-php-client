@@ -10,8 +10,9 @@ composer require picqer/bol-retailer-php-client "^5"
 
 ## Usage
 Create an instance of the client and authenticate
+
 ```php
-$client = new \Picqer\BolRetailerV5\Client();
+$client = new \Picqer\BolRetailerV7\Client();
 $client->authenticate('your-client-id', 'your-client-secret');
 ```
 

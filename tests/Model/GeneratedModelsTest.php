@@ -1,6 +1,6 @@
 <?php
 
-namespace Picqer\BolRetailerV5\Tests\Model;
+namespace Picqer\BolRetailerV7\Tests\Model;
 
 use PHPUnit\Framework\TestCase;
 
